@@ -13,6 +13,16 @@
         android:theme="@style/Theme.GitHubWithHayya"
         tools:targetApi="31">
         <activity
+            android:name=".aaron"
+            android:exported="false"
+            android:label="@string/title_activity_aaron"
+            android:theme="@style/Theme.GitHubWithHayya" />
+        <activity
+            android:name=".coba1.kt"
+            android:exported="false"
+            android:label="@string/title_activity_coba1.kt"
+            android:theme="@style/Theme.GitHubWithHayya" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"

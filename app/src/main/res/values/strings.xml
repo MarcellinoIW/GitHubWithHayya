@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GitHubWithHayya</string>
+    <string name="title_activity_coba1.kt">coba1.kt</string>
+    <string name="title_activity_aaron">aaron</string>
 </resources>
